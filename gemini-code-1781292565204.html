@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine Live-Gesehen Liste</title>
+    <style>
+        :root {
+            --bg-color: #121212;
+            --card-bg: #1e1e1e;
+            --accent-color: #ff4500;
+            --text-color: #e0e0e0;
+            --text-muted: #a0a0a0;
+            --border-color: #333;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        h1 {
+            color: #fff;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 10px;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 12px;
+            margin: 20px 0;
+            font-size: 1rem;
+            border-radius: 6px;
+            border: 1px solid var(--border-color);
+            background: var(--card-bg);
+            color: #fff;
+            box-sizing: border-box;
+        }
+
+        /* Tabellen-Struktur */
+        .band-table {
+            background: var(--card-bg);
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid var(--border-color);
+        }
+
+        .band-row {
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .band-row:last-child {
+            border-bottom: none;
+        }
+
+        /* Header der Zeile (Bandname + Anzahl) */
+        .band-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            cursor: pointer;
+            user-select: none;
+            transition: background 0.2s;
+        }
+
+        .band-header:hover {
+            background: #252525;
+        }
+
+        .band-name-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .toggle-icon {
+            color: var(--accent-color);
+            font-size: 1.2rem;
+            transition: transform 0.2s;
+        }
+
+        .band-row.active .toggle-icon {
+            transform: rotate(45deg); /* Plus wird zum X oder dreht sich */
+        }
+
+        .counter-badge {
+            background: #2a2a2a;
+            color: var(--text-muted);
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            border: 1px solid #444;
+        }
+
+        /* Ausklappbare Details */
+        .band-details {
+            max-height: 0;
+            overflow: hidden;
+            background: #161616;
+            transition: max-height 0.25s ease-out;
+        }
+
+        .band-row.active .band-details {
+            max-height: 1000px; /* Groß genug für viele Konzerte */
+            border-top: 1px solid #252525;
+        }
+
+        .concert-detail-item {
+            padding: 12px 20px 12px 40px;
+            border-bottom: 1px solid #222;
+            font-size: 0.95rem;
+        }
+
+        .concert-detail-item:last-child {
+            border-bottom: none;
+        }
+
+        .concert-meta {
+            margin-bottom: 4px;
+        }
+
+        .year-tag {
+            color: #fff;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+
+        .rating {
+            color: #ffd700;
+            font-size: 0.85rem;
+            float: right;
+        }
+
+        .notes {
+            font-style: italic;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-top: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🎸 Live Gesehen</h1>
+    
+    <input type="text" id="search" class="search-box" placeholder="Band suchen...">
+
+    <div id="band-list-container" class="band-table">
+        <p style="padding: 20px;">Lade Bands...</p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
