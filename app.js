@@ -26,8 +26,9 @@ function processAndRender(concertsList) {
         groupedBands[bandName].push(c);
     });
 
-    // Statistiken berechnen und updaten
-    updateStatistics(concertsList, groupedBands);
+    // FIX: Wir berechnen die Statistiken JETZT IMMER auf Basis der kompletten Liste (rawConcerts)
+    // statt auf der (eventuell durch die Suche gefilterten) concertsList.
+    updateStatistics(rawConcerts);
 
     // Innerhalb der Bands die Konzerte nach Jahr sortieren (Neueste zuerst)
     for (const band in groupedBands) {
@@ -82,18 +83,25 @@ function processAndRender(concertsList) {
     }).join('');
 }
 
-// 3. Funktion zur Berechnung der Statistiken
-function updateStatistics(concertsList, groupedBands) {
-    const totalShows = concertsList.length;
-    const totalArtists = Object.keys(groupedBands).length;
+// 3. Funktion zur Berechnung der Statistiken (arbeitet jetzt autark auf der Gesamtliste)
+function updateStatistics(fullList) {
+    const totalShows = fullList.length;
+    
+    // Temporäre Gruppierung nur für die All-Time-Statistik
+    const statsGrouped = {};
+    fullList.forEach(c => {
+        const name = c.artist.trim();
+        statsGrouped[name] = (statsGrouped[name] || 0) + 1;
+    });
+
+    const totalArtists = Object.keys(statsGrouped).length;
 
     let maxCount = 0;
     let topArtist = "---";
 
-    // Ermitteln, welche Band die meisten Einträge hat
-    for (const artist in groupedBands) {
-        if (groupedBands[artist].length > maxCount) {
-            maxCount = groupedBands[artist].length;
+    for (const artist in statsGrouped) {
+        if (statsGrouped[artist] > maxCount) {
+            maxCount = statsGrouped[artist];
             topArtist = artist;
         }
     }
