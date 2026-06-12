@@ -26,6 +26,9 @@ function processAndRender(concertsList) {
         groupedBands[bandName].push(c);
     });
 
+    // Statistiken berechnen und updaten
+    updateStatistics(concertsList, groupedBands);
+
     // Innerhalb der Bands die Konzerte nach Jahr sortieren (Neueste zuerst)
     for (const band in groupedBands) {
         groupedBands[band].sort((a, b) => b.year - a.year);
@@ -47,12 +50,15 @@ function processAndRender(concertsList) {
         const concerts = groupedBands[bandName];
         const count = concerts.length;
 
-        // Details für die ausgeklappte Ansicht generieren (jetzt ohne Emoji)
+        // Details für die ausgeklappte Ansicht generieren
         const detailsHtml = concerts.map(c => {
+            // Wenn das Jahr 1900 ist, wird "Unknown" angezeigt
+            const displayYear = c.year === 1900 ? "Unknown" : c.year;
+
             return `
                 <div class="concert-detail-item">
                     <div class="concert-meta">
-                        <span class="year-tag">${c.year}</span>
+                        <span class="year-tag">${displayYear}</span>
                         <span>📍 ${c.location}</span>
                     </div>
                 </div>
@@ -76,7 +82,30 @@ function processAndRender(concertsList) {
     }).join('');
 }
 
-// 3. Funktion zum Auf- und Zuklappen der Band-Details
+// 3. Funktion zur Berechnung der Statistiken
+function updateStatistics(concertsList, groupedBands) {
+    const totalShows = concertsList.length;
+    const totalArtists = Object.keys(groupedBands).length;
+
+    let maxCount = 0;
+    let topArtist = "---";
+
+    // Ermitteln, welche Band die meisten Einträge hat
+    for (const artist in groupedBands) {
+        if (groupedBands[artist].length > maxCount) {
+            maxCount = groupedBands[artist].length;
+            topArtist = artist;
+        }
+    }
+
+    // Werte ins HTML schreiben
+    document.getElementById('stat-shows-count').textContent = totalShows;
+    document.getElementById('stat-artists-count').textContent = totalArtists;
+    document.getElementById('stat-top-artist').textContent = topArtist;
+    document.getElementById('stat-top-count').textContent = maxCount;
+}
+
+// 4. Funktion zum Auf- und Zuklappen der Band-Details
 function toggleBand(headerElement) {
     const row = headerElement.parentElement;
     const details = row.querySelector('.band-details');
@@ -92,7 +121,7 @@ function toggleBand(headerElement) {
     }
 }
 
-// 4. Live-Suche (filtert nach Bandnamen oder Location)
+// 5. Live-Suche (filtert nach Bandnamen oder Location)
 document.getElementById('search').addEventListener('input', (e) => {
     const searchTerm = e.target.value.toLowerCase();
     
