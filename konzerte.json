@@ -1,15 +1,15 @@
 [
   {
     "artist": "30 Seconds to Mars",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2007,
+    "location": "Color Line Arena, Hamburg",
     "festival": false
   },
   {
     "artist": "30 Seconds to Mars",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2019,
+    "location": "Deichbrand Festival, Cuxhaven",
+    "festival": true
   },
   {
     "artist": "A Chinese Restaurant",
