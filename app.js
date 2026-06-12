@@ -1,5 +1,6 @@
 let rawConcerts = [];
 
+// 1. Daten aus der JSON-Datei laden
 async function loadConcerts() {
     try {
         const response = await fetch('konzerte.json');
@@ -12,10 +13,11 @@ async function loadConcerts() {
     }
 }
 
+// 2. Daten verarbeiten, gruppieren, sortieren und anzeigen
 function processAndRender(concertsList) {
-    // 1. Gruppieren nach Bandname
     const groupedBands = {};
 
+    // Nach Bandname gruppieren
     concertsList.forEach(c => {
         const bandName = c.artist.trim();
         if (!groupedBands[bandName]) {
@@ -24,40 +26,38 @@ function processAndRender(concertsList) {
         groupedBands[bandName].push(c);
     });
 
-    // 2. Innerhalb der Bands die Konzerte nach Datum sortieren (Neueste zuerst)
+    // Innerhalb der Bands die Konzerte nach Jahr sortieren (Neueste zuerst)
     for (const band in groupedBands) {
-        groupedBands[band].sort((a, b) => new Date(b.date) - new Date(a.date));
+        groupedBands[band].sort((a, b) => b.year - a.year);
     }
 
-    // 3. Bandnamen alphabetisch sortieren
+    // Bandnamen alphabetisch sortieren (A-Z)
     const sortedBandNames = Object.keys(groupedBands).sort((a, b) => 
         a.localeCompare(b, 'de', { sensitivity: 'base' })
     );
 
-    // 4. HTML generieren
     const container = document.getElementById('band-list-container');
     if (sortedBandNames.length === 0) {
         container.innerHTML = "<p style='padding:20px;'>Keine Bands gefunden.</p>";
         return;
     }
 
+    // HTML für die Tabelle generieren
     container.innerHTML = sortedBandNames.map(bandName => {
         const concerts = groupedBands[bandName];
         const count = concerts.length;
 
         // Details für die ausgeklappte Ansicht generieren
         const detailsHtml = concerts.map(c => {
-            const year = c.date ? new Date(c.date).getFullYear() : '----';
-            const stars = c.rating ? "★".repeat(c.rating) + "☆".repeat(5 - c.rating) : '';
+            // Wenn es ein Festival war, hängen wir ein Zelt-Emoji an die Location
+            const festivalBadge = c.festival ? ' ⛺' : '';
             
             return `
                 <div class="concert-detail-item">
                     <div class="concert-meta">
-                        <span class="year-tag">${year}</span>
-                        <span>📍 ${c.location}</span>
-                        <span class="rating">${stars}</span>
+                        <span class="year-tag">${c.year}</span>
+                        <span>📍 ${c.location}${festivalBadge}</span>
                     </div>
-                    ${c.notes ? `<div class="notes">"${c.notes}"</div>` : ''}
                 </div>
             `;
         }).join('');
@@ -79,41 +79,33 @@ function processAndRender(concertsList) {
     }).join('');
 }
 
-// Funktion zum Auf- und Zuklappen
+// 3. Funktion zum Auf- und Zuklappen der Band-Details
 function toggleBand(headerElement) {
     const row = headerElement.parentElement;
     const details = row.querySelector('.band-details');
     
-    // Wenn die Zeile schon offen ist, schließen
     if (row.classList.contains('active')) {
         row.classList.remove('active');
         details.style.maxHeight = null;
         headerElement.querySelector('.toggle-icon').textContent = "➕";
     } else {
-        // Option/Feature: Alle anderen schließen (wenn gewünscht, sonst Zeilen auskommentieren)
-        // document.querySelectorAll('.band-row').forEach(r => {
-        //     r.classList.remove('active');
-        //     r.querySelector('.band-details').style.maxHeight = null;
-        //     r.querySelector('.toggle-icon').textContent = "➕";
-        // });
-
         row.classList.add('active');
         details.style.maxHeight = details.scrollHeight + "px";
         headerElement.querySelector('.toggle-icon').textContent = "➖";
     }
 }
 
-// Live-Suche (filtert die alphabetische Bandliste)
+// 4. Live-Suche (filtert nach Bandnamen oder Location)
 document.getElementById('search').addEventListener('input', (e) => {
     const searchTerm = e.target.value.toLowerCase();
     
     const filteredRaw = rawConcerts.filter(c => 
         c.artist.toLowerCase().includes(searchTerm) ||
-        c.location.toLowerCase().includes(searchTerm) ||
-        (c.notes && c.notes.toLowerCase().includes(searchTerm))
+        c.location.toLowerCase().includes(searchTerm)
     );
     
     processAndRender(filteredRaw);
 });
 
+// Starten, sobald das DOM bereit ist
 window.addEventListener('DOMContentLoaded', loadConcerts);
