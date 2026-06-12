@@ -8,2634 +8,2694 @@
   {
     "artist": "30 Seconds to Mars",
     "year": 2019,
-    "location": "Deichbrand Festival, Cuxhaven",
+    "location": "Deichbrand Festival",
     "festival": true
   },
   {
     "artist": "A Chinese Restaurant",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2010,
+    "location": "Hapag Hallen, Cuxhaven",
     "festival": false
   },
   {
     "artist": "A Day To Remember",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2013,
+    "location": "Große Freiheit 36, Hamburg",
     "festival": false
   },
   {
     "artist": "A Day To Remember",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2025,
+    "location": "Vainstream Festival",
+    "festival": true
   },
   {
     "artist": "Adept",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2012,
+    "location": "Hurricane Festival",
+    "festival": true
   },
   {
     "artist": "Adept",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2015,
+    "location": "Free For All Festival",
+    "festival": true
   },
   {
     "artist": "Adept",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2025,
+    "location": "Reload Festival",
+    "festival": true
   },
   {
     "artist": "Akrea",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2011,
+    "location": "Tower",
     "festival": false
   },
   {
     "artist": "Alligatoah",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2014,
+    "location": "Rock im Park",
+    "festival": true
   },
   {
     "artist": "Alligatoah",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2016,
+    "location": "Deichbrand Festival",
+    "festival": true
   },
   {
     "artist": "Alligatoah",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2019,
+    "location": "Deichbrand Festival",
+    "festival": true
   },
   {
     "artist": "Alligatoah",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2022,
+    "location": "Vainstream Festival",
+    "festival": true
   },
   {
     "artist": "All Shall Perish",
-    "year": 2000,
+    "year": 2010,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Alter Bridge",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2014,
+    "location": "Rock im Park",
+    "festival": true
   },
   {
     "artist": "Always Wanted War",
-    "year": 2000,
+    "year": 2011,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Anchors & Hearts",
-    "year": 2000,
+    "year": 2013,
+    "location": "Haus der Jugend, Otterndorf",
+    "festival": false
+  },
+  {
+    "artist": "Annisokay",
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Annisokay",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2017,
+    "location": "Reload Festival",
+    "festival": true
   },
   {
     "artist": "Annisokay",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
-  },
-  {
-    "artist": "Annisokay",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Anti-Flag",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2023,
+    "location": "Vainstream Festival",
+    "festival": true
   },
   {
     "artist": "Anti-Flag",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2017,
+    "location": "Reload Festival",
+    "festival": true
   },
   {
     "artist": "Anti-Flag",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2023,
+    "location": "Hurricane Festival",
+    "festival": true
   },
   {
     "artist": "Any Given Day",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Architects",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2014,
+    "location": "Rock im Park",
     "festival": false
   },
   {
     "artist": "Architects",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2023,
+    "location": "Vainstream Festival",
     "festival": false
+  },
+  {
+    "artist": "Architects",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
     "artist": "Artemis Rising",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2025,
+    "location": "Free For All Festival",
     "festival": false
   },
   {
     "artist": "Asap Rocky",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2022,
+    "location": "Volksparkstadion, Hamburg",
     "festival": false
   },
   {
     "artist": "As Everything Unfolds",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2024,
+    "location": "Reload Festival",
     "festival": false
   },
   {
     "artist": "As I Lay Dying",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2009,
+    "location": "Große Freiheit 36, Hamburg",
     "festival": false
   },
   {
     "artist": "Atreyu",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2022,
+    "location": "Sporthalle, Hamburg",
     "festival": false
   },
   {
     "artist": "Attic Stories",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2026,
+    "location": "Molotow, Hamburg",
     "festival": false
   },
   {
     "artist": "Attila",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2023,
+    "location": "Logo, Hamburg",
     "festival": false
   },
   {
     "artist": "August Burns Red",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2017,
+    "location": "Reload Festival",
+    "festival": true
   },
   {
     "artist": "Avenged Sevenfold",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2014,
+    "location": "Rock im Park",
+    "festival": true
   },
   {
     "artist": "Aviana",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2024,
+    "location": "Free For All Festival",
+    "festival": true
   },
   {
     "artist": "Bad Religion",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2011,
+    "location": "Deichbrand Festival",
+    "festival": true
   },
   {
     "artist": "Bassnectar",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2012,
+    "location": "Hurricane Festival",
+    "festival": true
   },
   {
     "artist": "Beartooth",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2023,
+    "location": "Reload Festival",
+    "festival": true
   },
   {
     "artist": "Beartooth",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2024,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
     "artist": "Beatsteaks",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2012,
+    "location": "Deichbrand Festival",
+    "festival": true
   },
   {
     "artist": "Beatsteaks",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Behold Deception",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2014,
+    "location": "HadelnROCKS",
+    "festival": true
   },
   {
     "artist": "Betontod",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2013,
+    "location": "Deichbrand Festival",
+    "festival": true
   },
   {
     "artist": "Biffy Clyro",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2017,
+    "location": "Deichbrand Festival",
+    "festival": true
   },
   {
     "artist": "Billy Talent",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2013,
+    "location": "Hurricane Festival",
+    "festival": true
   },
   {
     "artist": "Billy Talent",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2017,
+    "location": "Deichbrand Festival",
+    "festival": true
   },
   {
     "artist": "Billy Talent",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2018,
+    "location": "Hurricane Festival",
+    "festival": true
   },
   {
     "artist": "Billy Talent",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2023,
+    "location": "Hurricane Festival",
+    "festival": true
   },
   {
     "artist": "Billy Talent",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2024,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
     "artist": "Blessthefall",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Blind Channel",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Blind Disciples",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Blindside",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Blink-182",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2012,
+    "location": "Hurricane Festival",
+    "festival": true
   },
   {
     "artist": "Blink-182",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2014,
+    "location": "Hamburg Crash Fest",
+    "festival": true
   },
   {
     "artist": "Blink-182",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2023,
+    "location": "Barclays Arena",
     "festival": false
   },
   {
     "artist": "Bloodwork",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Bomba Atómica",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Bomba Atómica",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
+  },
+  {
+    "artist": "Breaking Benjamin",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
     "artist": "Bring Me The Horizon",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Broilers",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Broilers",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Broilers",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Broilers",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Broilers",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Bullet for my Valentine",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Bullet for my Valentine",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Bullet for my Valentine",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Bullet for my Valentine",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Bullet for my Valentine",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Bullet for my Valentine",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Burst my Marrow",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Burst my Marrow",
-    "year": 2000,
+    "year": 1900,
+    "location": "Unknown Location",
+    "festival": false
+  },
+  {
+    "artist": "Bush",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
+  },
+  {
+    "artist": "Caliban",
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Caliban",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Caliban",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Caliban",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Caliban",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Caliban",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
-  },
-  {
-    "artist": "Caliban",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Calléjon",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Calléjon",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Casper",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Chaoseum",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Clipse",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Code Orange",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Confession",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Corey Taylor",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Counterparts",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Crossfaith",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Crownchase",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Cruvior",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Danko Jones",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Dark and Drunk",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Deez Nuts",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Deichkind",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Deichkind",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Deichkind",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Deichkind",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Die Antwoord",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Die Apokalyptischen Reiter",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Die Apokalyptischen Reiter",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Die Apokalyptischen Reiter",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Die Fantastischen Vier",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Die Kassierer",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Die Toten Hosen",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Disco Ensemble",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Dissouled",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Distant Shadow",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Don Broco",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Donots",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Donots",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Donots",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Donots",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Donots",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Donots",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Donots",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Dope",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Doro",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Dragonforce",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Drone",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Dropkick Murphys",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Dropkick Murphys",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Dropkick Murphys",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Dropout Kings",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Drowning Pool",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Eagles of Death Metal",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Ektomorf",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Emil Bulls",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Emil Bulls",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Emil Bulls",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Emil Bulls",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Emil Bulls",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Enter Shikari",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Electric Callboy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Electric Callboy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Electric Callboy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Electric Callboy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Electric Callboy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Equilibrium",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Errest",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Every Time I Die",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Falling in Reverse",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Fall Out Boy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Feine Sahne Fischfilet",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Feine Sahne Fischfilet",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Fever 333",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Fever 333",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Finch",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Fin The Chaef",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Fit For A King",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Fit For A King",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Foo Fighters",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "For The Fallen Dreams",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Fox & Badger",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Frank Turner",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Frank Turner",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Funeral For A Friend",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Future Palace",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Future Palace",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Ghost Iris",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Gideon",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Grandson",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Gravity",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Green Day",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Guano Apes",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Guano Apes",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Guano Apes",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Hacktivist",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Hard Times Don't Last",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Hatebreed",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "H-Blockx",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Heaven Shall Burn",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Heaven Shall Burn",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Heaven Shall Burn",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Heaven Shall Burn",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Heaven Shall Burn",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Heaven Shall Burn",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Hollywood Undead",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Holly Would Surrender",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Holly Would Surrender",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Hot Water Music",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Hurricaneswimteam",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
+    "artist": "Ice Nine Kills",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
+  },
+  {
     "artist": "Ignite",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Imminence",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Immortal Sin",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Immortal Sin",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Impulz",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Impulz",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Impulz",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Impulz",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Incubus",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "In Extremo",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Infinite Ocean",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "In Flames",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "I Prevail",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Iron Fist of Fu",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "I Shiver",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Iwrestledabearonce",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Jan Hegenberg",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Jan Hegenberg",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Jinjer",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Jinjer",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "K.I.Z",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "K.I.Z",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Killswitch Engage",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Killswitch Engage",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Knocked Loose",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Kontra K",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Korescant",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "KoRn",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Kraftklub",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Kraftklub",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Kvelertak",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "La Dispute",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Lagwagon",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Landmvrks",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Landmvrks",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Le Fly",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Le Fly",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Le Fly",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Leoniden",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Less Than Jake",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Less Than Jake",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Letters Sent Home",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Life Of Agony",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2017,
+    "location": "Reload Festival",
+    "festival": true
+  },
+  {
+    "artist": "Limp Bizkit",
+    "year": 2019,
+    "location": "Halle 3, Bremen",
     "festival": false
   },
   {
     "artist": "Limp Bizkit",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2023,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
     "artist": "Limp Bizkit",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
+  },
+  {
+    "artist": "Linkin Park",
+    "year": 2007,
+    "location": "Color Line Arena, Hamburg",
     "festival": false
   },
   {
     "artist": "Linkin Park",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2014,
+    "location": "Rock im Park",
+    "festival": true
+  },
+  {
+    "artist": "Linkin Park",
+    "year": 1900,
+    "location": "Barclays Arena, Hamburg",
     "festival": false
   },
   {
     "artist": "Linkin Park",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2026,
+    "location": "Volksparkstadion, Hamburg",
     "festival": false
   },
   {
     "artist": "Linkin Park",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
-    "artist": "Linkin Park",
-    "year": 2000,
+    "artist": "Lionheart",
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Lionheart",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
-  },
-  {
-    "artist": "Lionheart",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Lost in Hollywood",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Machine Gun Kelly",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Machine Head",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Machine Head",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Macklemore & Ryan Lewis",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "MacPiet",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "MacPiet",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Mad Caddies",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Madsen",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Madsen",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Madsen",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Madsen",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Maelfoy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Make An Effort",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Man with a Mission",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Marmozets",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Marsimoto",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Marteria",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Marteria",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Mehnersmoos",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Metallica",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Mexokreed",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Midas Inc.",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Mike Shinoda",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Millencollin",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Millencollin",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Miss May I",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Miss May I",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Motionless in White",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Motionless in White",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Nasty",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Neck Deep",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Neck Deep",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Neck Deep",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "NOFX",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "NOFX",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "No Need For Silence",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Nu Kidz",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Obey The Brave",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Occulus",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Oceans Ate Alaska",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Oomph",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Our Mirage",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Our Mirage",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Our Mirage",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Out Off Blues",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Paleface",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Papa Roach",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Papa Roach",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Papa Roach",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Papa Roach",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Papa Roach",
-    "year": 2000,
+    "year": 1900,
+    "location": "Unknown Location",
+    "festival": false
+  },
+  {
+    "artist": "Papa Roach",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
+  },
+  {
+    "artist": "Parkway Drive",
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Parkway Drive",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
-  },
-  {
-    "artist": "Parkway Drive",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Pears",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Pennywise",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Pennywise",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Pennywise",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Pennywise",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Peter Fox",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Phantogram",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Phlegmatix",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Phlegmatix",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Pulley",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Queens of the Stone Age",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Rammstein",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Rammstein",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Rancid",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Rau",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Red Ape Effect",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Red Hot Chili Peppers",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2022,
+    "location": "Volksparkstadion, Hamburg",
     "festival": false
   },
   {
     "artist": "Redhook",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Refused",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Regicide",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Regicide",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Revolverheld",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Revolverheld",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2009,
+    "location": "Xtreme Playgrounds, Hamburg",
     "festival": false
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2011,
+    "location": "Xtreme Playgrounds, Hamburg",
     "festival": false
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2012,
+    "location": "Hurricane Festival",
+    "festival": true
+  },
+  {
+    "artist": "Rise Against",
+    "year": 2014,
+    "location": "o2 World, Hamburg",
     "festival": false
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2015,
+    "location": "Pier 2, Bremen",
     "festival": false
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2017,
+    "location": "SO36, Berlin",
     "festival": false
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2017,
+    "location": "Sporthalle, Hamburg",
     "festival": false
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2022,
+    "location": "Hurricane Festival",
+    "festival": true
+  },
+  {
+    "artist": "Rise Against",
+    "year": 2022,
+    "location": "Barclays Arena, Hamburg",
     "festival": false
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
+    "year": 2023,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
     "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
-  },
-  {
-    "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
-  },
-  {
-    "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
-    "festival": false
-  },
-  {
-    "artist": "Rise Against",
-    "year": 2000,
-    "location": "Unknown Location",
+    "year": 2025,
+    "location": "Gilde Parkbühne, Hannover",
     "festival": false
   },
   {
     "artist": "Rising Insane",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Rogers",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Royal Blood",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Royal Blood",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Royal Republic",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Saltatio Mortis",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Schandmaul",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "SDP",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "SDP",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Seeyouspacecowboy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Setyoursails",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Setyoursails",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Shellycoat",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Shoreline",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Sido",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Silent Screams",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Silverstein",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Skindred",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Skindred",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Skindred",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Sleeping With Sirens",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Slipknot",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Slowly Rotten",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
+    "artist": "Social Distortion",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
+  },
+  {
     "artist": "Soil",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Sportfreunde Stiller",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Stain The Canvas",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Starry",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Static Dress",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Static-X",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Stesy",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Stick To Your Guns",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Stick To Your Guns",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Stick To Your Guns",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Stick To Your Guns",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Still Talk",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Still Talk",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Stone Sour",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Stunnah",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Subway to Sally",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Suffocating Sight",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Suffocating Sight",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Suicide Silence",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Suicide Silence",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Suicide Silence",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Sum 41",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Sunrise Avenue",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Swimmers",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Swiss & Die Andern",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Swiss & Die Andern",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Swiss & Die Andern",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Taste My Rage",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Tenacious D",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Terminal",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Terror",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Terrorgruppe",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Amity Affliction",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The BossHoss",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Bouncing Souls",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Bronx",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Browning",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Butcher Sisters",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Cure",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Epic Spaceballs",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Flatliners",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Ghost Inside",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Ghost Inside",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Ghost Inside",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Hives",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Hives",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
+  },
+  {
+    "artist": "The Hives",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
     "artist": "The Interrupters",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Jinxs",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Jinxs",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Offspring",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Offspring",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Offspring",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Prosecution",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Sounds",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Story So Far",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Story So Far",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Subways",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "The Subways",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Three Days Grace",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Three Days Grace",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
+  },
+  {
+    "artist": "Three Days Grace",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
   },
   {
     "artist": "Thrice",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Thundercat",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
+    "artist": "Tom Morello",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
+  },
+  {
     "artist": "Touché Amoré",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Trailerpark",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Turisas",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Turnstile",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Turnstile",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Tuun Crew",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Unearth",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Vanna",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Venues",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Walls Of Jericho",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Watch Out Stampede",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Watch Out Stampede",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Watch Out Stampede",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "When Sky Falls Down",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "While She Sleeps",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "While She Sleeps",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "While She Sleeps",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Whitechapel",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Wolfmother",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Wood & Valley",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Yellowcard",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Yellowcard",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Your Demise",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Yours Truly",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Yungblud",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Zebrahead",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Zebrahead",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Zebrahead",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Zebrahead",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Zebrahead",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "ZSK",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   },
   {
     "artist": "Zungenschuss",
-    "year": 2000,
+    "year": 1900,
     "location": "Unknown Location",
     "festival": false
   }
