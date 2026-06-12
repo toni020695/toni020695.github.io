@@ -47,16 +47,13 @@ function processAndRender(concertsList) {
         const concerts = groupedBands[bandName];
         const count = concerts.length;
 
-        // Details für die ausgeklappte Ansicht generieren
+        // Details für die ausgeklappte Ansicht generieren (jetzt ohne Emoji)
         const detailsHtml = concerts.map(c => {
-            // Wenn es ein Festival war, hängen wir ein Zelt-Emoji an die Location
-            const festivalBadge = c.festival ? ' ⛺' : '';
-            
             return `
                 <div class="concert-detail-item">
                     <div class="concert-meta">
                         <span class="year-tag">${c.year}</span>
-                        <span>📍 ${c.location}${festivalBadge}</span>
+                        <span>📍 ${c.location}</span>
                     </div>
                 </div>
             `;
