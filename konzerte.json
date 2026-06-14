@@ -2586,6 +2586,12 @@
     "festival": false
   },
   {
+    "artist": "We Came As Romans",
+    "year": 2026,
+    "location": "Rock am Ring",
+    "festival": true
+  },
+  {
     "artist": "When Sky Falls Down",
     "year": 1900,
     "location": "Unknown Location",
